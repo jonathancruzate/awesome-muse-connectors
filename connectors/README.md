@@ -146,6 +146,7 @@ Meta says many connector actions can be limited to read-only, important actions 
 | [replicate](./replicate/SKILL.md) | Run AI models, poll predictions. |
 | [resend](./resend/SKILL.md) | Send email through Resend and check delivery status. Every send is confirmed with you first. |
 | [restream](./restream/SKILL.md) | Manage Restream multistreaming: read your profile, list streaming destinations (channels), toggle destinations or edit channel metadata, and retrieve your stream key. Use when the user wants to control where a livestream goes without opening the Restream dashboard. |
+| [resy](./resy/SKILL.md) | Search venues, check slots, and book or cancel Resy reservations on your own account — bookings and cancellations need confirmation first. |
 | [runway](./runway/SKILL.md) | Runway developer API: text-to-video, image-to-video, task polling, video upscale, lip-sync. |
 | [sendgrid](./sendgrid/SKILL.md) | Send email, check stats and profile. |
 | [sentry](./sentry/SKILL.md) | List organizations and projects, triage unresolved issues from the last 24h, and resolve/archive/assign issues. |
