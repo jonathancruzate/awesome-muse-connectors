@@ -181,6 +181,7 @@ Meta says many connector actions can be limited to read-only, important actions 
 | [veed](./veed/SKILL.md) | Remove backgrounds from video with VEED |
 | [vercel](./vercel/SKILL.md) | See your Vercel account, projects, and recent deployments. |
 | [webflow](./webflow/SKILL.md) | Work with the Webflow Data API v2: list sites, inspect site details, browse CMS collections and items, create/update/delete CMS items, and publish a site. Uses a per-site token from Site Settings. |
+| [winix](./winix/SKILL.md) | Winix air purifiers: credential-free state reads (power, mode, fan, AQI, PM2.5, filter life) and confirmation-gated control via the Winix cloud API. |
 | [wise](./wise/SKILL.md) | View Wise profiles and multi-currency balances. Read-only by design. |
 | [x](./x/SKILL.md) | Post, search, like, DM. Note: no usable free read tier. |
 | [xai](./xai/SKILL.md) | Query Grok chat completions and list available Grok models through xAI |
